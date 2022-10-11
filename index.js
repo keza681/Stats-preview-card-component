@@ -15,18 +15,18 @@
 
 
 
-// let num1=9;
-// let num2=8;
+let num1=9;
+let num2=8;
 
-// let sum=num1=num2;
+let sum=num1=num2;
 
-// let dif=num1 - num2;
+let dif=num1 - num2;
 
-// let prod= num1 * num2;
+let prod= num1 * num2;
 
-// let quot = num1 / num2;
+let quot = num1 / num2;
 
-// console.log(dif)
+console.log(dif)
 
 
 
