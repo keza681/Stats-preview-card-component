@@ -108,7 +108,7 @@
 
 
 
- create 1 funnctions to calculate the average of 3 integers
+//  create 1 funnctions to calculate the average of 3 integers
 
 // function average(a, b, c){
 
