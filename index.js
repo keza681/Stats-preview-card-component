@@ -110,16 +110,16 @@
 
 // create 1 funnctions to calculate the average of 3 integers
 
-function average(a, b, c){
+// function average(a, b, c){
 
-    return (a + b + c) / 3;
-}
+//     return (a + b + c) / 3;
+// }
 
-var a = parseInt(prompt("Enter first number"));
-var b = parseInt(prompt("Enter second number"));
-var c = parseInt(prompt("Enter third number"));
+// var a = parseInt(prompt("Enter first number"));
+// var b = parseInt(prompt("Enter second number"));
+// var c = parseInt(prompt("Enter third number"));
 
-console.log("The average of three numbers" + average);
+// console.log("The average of three numbers" + average);
 
 
 
