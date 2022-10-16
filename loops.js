@@ -80,3 +80,18 @@
 // ----------------------------------------FOR ... IN ----------------------------------------
 
 // this is for objects
+
+const symbols = {
+    yt: "youtube",
+    fb: "facebook",
+    tw: "twitter",
+    ig: "instagram",
+    sc: "snapchat",
+};
+
+for (const x in symbols) {
+    console.log(x);
+    console.log(symbols[x]);
+    console.log(`${x} : ${symbols[x]}`);
+    
+}
