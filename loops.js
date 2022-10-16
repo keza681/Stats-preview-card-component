@@ -65,3 +65,18 @@
 
 
 
+// ------------------------------For... OF----------------------------
+
+// this loop is for arrays
+
+// const names = ["youtube", "facebook", "twitter", "instagram", "snapchat"]
+
+// for (const x of names){
+//     console.log(x);
+// }
+
+
+
+// ----------------------------------------FOR ... IN ----------------------------------------
+
+// this is for objects
