@@ -6,9 +6,13 @@
 // * For...of
 
 
-// (i=0 initial expression;
-// i<5 condition;
-// i++ incrementation){
+
+// FOR LOOP  EXECUTES N NUMBER OF STEPS PERFORM IN SINGLE LINE
+
+
+// (i=0 initial expression;    sets a variable before the loop starts (let i = 0).
+// i<5 condition;              defines the condition for the loop to run (i must be less than 5).
+// i++ incrementation){        increases a value (i++) each time the code block in the loop has been executed.
 //     statement
 // }
 
@@ -22,6 +26,11 @@
 
 
 
+
+// WHILE LOOP EXECUTES N NUMBER OF STEPS IN MORE THAN ONE LINE 
+
+
+// checks for the conditions available first then we check a statement.
 
 // while(condition){
 //     statement;
@@ -42,6 +51,8 @@
 
 
 
+
+// checks for the conditions available after we check a statement.
 
 // do{
 //     statement;
@@ -85,13 +96,42 @@
 //     yt: "youtube",
 //     fb: "facebook",
 //     tw: "twitter",
-//     ig: "instagram",
-//     sc: "snapchat",
+//     // ig: "instagram",
+//     // sc: "snapchat",
 // };
 
 // for (const x in symbols) {
-//     console.log(x);
-//     console.log(symbols[x]);
+//     // console.log(x);
+//     // console.log(symbols[x]);
 //     console.log(`${x} : ${symbols[x]}`);
-    
 // }
+
+
+// ----------------------------------------------------EXERCISES--------------------------------------
+
+
+// let sum =1;
+
+// let sum =1;
+
+// for(let i = 1; i < 1000; i++){
+//     sum = sum + i;
+//     console.log(sum);
+// }
+
+
+// for (let i= 1; i <= 100; i++){
+//     if(i % 2 == 0) console.log(i);
+// }
+
+
+
+// let evenNumb = 0;
+// while(evenNumb <= 100){
+//     console.log(evenNumb);
+//     evenNumb = evenNumb +2;
+// }
+
+
+
+
