@@ -14,15 +14,15 @@
 
 
 
-// var x = [];
+var x = [];
 
-// for (let i=0; i<= 10000; i++){
-//     if (i % 2 ==0){
-//         x.push(i)
-//     }
-// }
+for (let i=0; i<= 10000; i++){
+    if (i % 2 ==0){
+        x.push(i)
+    }
+}
 
-// console.log(x);
+console.log(x);
 
 
 
@@ -59,18 +59,18 @@
 // if( searchStudent > 0)
 
 
-var bigSur = ["Heritier", "Sabine", "Noella", "Sifa"];
+// var bigSur = ["Heritier", "Sabine", "Noella", "Sifa"];
 
-var netBrain = ["Fiona", "Fabiola", "Marius"];
+// var netBrain = ["Fiona", "Fabiola", "Marius"];
 
-var studentName = prompt("Enter student's name");
+// var studentName = prompt("Enter student's name");
 
-if(bigSur.indexOf(studentName)>=0){
-    alert(`${studentName} is in bigsur class`);
-}else if(netBrain.indexOf(studentName)>=0){
-    alert(`${studentName} is in netBrain class`);
-}else{
-    alert(`${studentName} is invalid`);
-}
+// if(bigSur.indexOf(studentName)>=0){
+//     alert(`${studentName} is in bigsur class`);
+// }else if(netBrain.indexOf(studentName)>=0){
+//     alert(`${studentName} is in netBrain class`);
+// }else{
+//     alert(`${studentName} is invalid`);
+// }
 
 
